@@ -15,12 +15,11 @@ The project I researched:
 * [Middleware](docs/middleware.md)
 * [Model & Database](docs/model.md)
 * [Controllers, Request, Response and Authorization](docs/controller.md)
+* [View](docs/view.md)
 
 ## Todos
 
 * Guard usage
-* Controllers research
-* View research
 * Test research
 * Vue and Laravel cooperation research
 * Create cheatsheet.
