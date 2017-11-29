@@ -14,6 +14,7 @@ The project I researched:
 * [Route](docs/route.md)
 * [Middleware](docs/middleware.md)
 * [Model & Database](docs/model.md)
+* [Controllers, Request, Response and Authorization](docs/controller.md)
 
 ## Todos
 
