@@ -13,3 +13,14 @@ The project I researched:
 
 * [Route](docs/route.md)
 * [Middleware](docs/middleware.md)
+* [Model & Database](docs/model.md)
+
+## Todos
+
+* Guard usage
+* Controllers research
+* View research
+* Test research
+* Vue and Laravel cooperation research
+* Create cheatsheet.
+* Laravel Scout and [TNTsearch](https://github.com/teamtnt/tntsearch)
