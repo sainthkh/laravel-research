@@ -154,6 +154,15 @@ class ProfileComposer
 }
 ```
 
+## Create URL
+
+```php
+route('post.show', ['post' => 1]);
+route('post.show', ['post' => $post]);
+action('HomeController@index');
+action('UserController@profile', ['id' => 1]);
+```
+
 ## Laravel HTML
 
 It was removed from 5.0. You can get it from [Laravel Collective](https://github.com/LaravelCollective/html).
