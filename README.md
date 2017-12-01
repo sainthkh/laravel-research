@@ -16,6 +16,7 @@ The project I researched:
 * [Model & Database](docs/model.md)
 * [Controllers, Request, Response and Authorization](docs/controller.md)
 * [View](docs/view.md)
+* [Vue](docs/vue.md)
 
 ## Todos
 
