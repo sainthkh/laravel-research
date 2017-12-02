@@ -17,6 +17,7 @@ The project I researched:
 * [Controllers, Request, Response and Authorization](docs/controller.md)
 * [View](docs/view.md)
 * [Vue](docs/vue.md)
+* [Vanilla JavaScript](docs/vanilla-js.md)
 
 ## Todos
 
